@@ -77,4 +77,4 @@ In Power BI the three lookup tables relate to the reports table on part number, 
 
 ## Author
 
-[Your name] | [LinkedIn or portfolio link]
+[Nhut Nguyen] | [LinkedIn or portfolio link]
