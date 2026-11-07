@@ -6,7 +6,7 @@ A mobile-ready workflow for reporting and approving warehouse material discrepan
 
 ## Demo
 
-[Watch the 90-second demo on YouTube](PASTE-YOUR-YOUTUBE-LINK-HERE)
+[Watch the 90-second demo on YouTube](https://youtu.be/lb9dz5eJ1OQ)
 
 The demo shows: submitting a report in the app, approving it by email, the record updating in Dataverse, and the analytics dashboard.
 
@@ -77,4 +77,6 @@ In Power BI the three lookup tables relate to the reports table on part number, 
 
 ## Author
 
-[Nhut Nguyen] | [LinkedIn or portfolio link]
+[Nhut Nguyen] | [www.linkedin.com/in/
+nhut-nguyen-644952406
+]
